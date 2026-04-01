@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260305_1719_001",
+  "timestamp": "2026-03-05T17:19:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "一位馬來媽媽帶三名小孩購買 4 瓶 RM2.9 包裝飲料，之後前往遊樂場。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

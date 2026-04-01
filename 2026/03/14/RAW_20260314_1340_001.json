@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260314_1340_001",
+  "timestamp": "2026-03-14T13:40:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午一點四十分，一個馬來家庭帶兩個小朋友洗衣後進店購買冰條2支和包裝水2瓶。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

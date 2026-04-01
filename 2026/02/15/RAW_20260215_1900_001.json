@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260215_1900_001",
+  "timestamp": "2026-02-15T19:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "女生洗衣途中進店購買包裝水（RM2.9）。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

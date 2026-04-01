@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260322_1730_001",
+  "timestamp": "2026-03-22T17:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午的五點半，Steve買了三個一塊錢的零食，其中五香雞翅很多，他說很好吃，建議多進貨。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

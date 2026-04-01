@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260302_1659_001",
+  "timestamp": "2026-03-02T16:59:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午四點五十九分，早上來過的清潔阿姨回來購買兩包RM2.9牛奶。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

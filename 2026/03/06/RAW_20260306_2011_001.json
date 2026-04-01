@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260306_2011_001",
+  "timestamp": "2026-03-06T20:11:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是晚上八點十一分，發現豆干、手工豆皮、樂高積木與咸鴨蛋尚未上架POS系統，需要之後補上架。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

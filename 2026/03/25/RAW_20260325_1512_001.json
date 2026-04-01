@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260325_1512_001",
+  "timestamp": "2026-03-25T15:12:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是下午的三点十二分，刚刚来了一对印度小姑娘，是回头客，买了一罐三块九的可乐和一块钱三包的零食。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

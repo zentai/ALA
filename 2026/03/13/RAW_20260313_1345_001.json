@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260313_1345_001",
+  "timestamp": "2026-03-13T13:45:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午一點四十五分，一位馬來男子在外面洗衣服，沒有進店。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

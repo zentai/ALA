@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260214_1211_001",
+  "timestamp": "2026-02-14T12:11:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "發現新掛的價錢表容易移動，固定方式不穩，需要重新調整。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

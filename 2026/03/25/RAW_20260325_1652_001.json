@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260325_1652_001",
+  "timestamp": "2026-03-25T16:52:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午的四點五十二分，剛才有兩個印度小妹進來買了一塊錢的零食。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

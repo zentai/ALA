@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260328_1330_001",
+  "timestamp": "2026-03-28T13:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "帮我记录今日的流水账,现在是二零二六年三月二十八号,礼拜六,啊一点三十分开的店。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

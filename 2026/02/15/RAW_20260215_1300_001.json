@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260215_1300_001",
+  "timestamp": "2026-02-15T13:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "開始 2026-02-15（日）營運。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "time_missing": true
+  }
+}

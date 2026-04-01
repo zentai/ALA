@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260306_1630_001",
+  "timestamp": "2026-03-06T16:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午四點三十分，一位中國阿姨在洗衣時得到幫助後進店購買咸鴨蛋與豆干。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

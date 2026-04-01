@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260208_1215_001",
+  "timestamp": "2026-02-08T12:15:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "三名男生（馬來或外勞）購買飲料 1 瓶（RM2.9，現金）。"
+  },
+  "meta": {
+    "amount": 2.9,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

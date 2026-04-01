@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260320_1553_001",
+  "timestamp": "2026-03-20T15:53:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午三點五十三分，有三位印度小妹進來買了冰杯2個、罐裝飲料3個和冰條1個，並詢問吸管但店內沒有提供。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

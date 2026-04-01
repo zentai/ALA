@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260211_1221_002",
+  "timestamp": "2026-02-11T12:21:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "開始進行 POS 系統設定。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

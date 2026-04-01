@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260302_1400_001",
+  "timestamp": "2026-03-02T14:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午兩點，老顧客Steve進來聊天並購買三個RM1巧克力和兩個RM3.9鹹鴨蛋。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

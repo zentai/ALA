@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260313_1315_001",
+  "timestamp": "2026-03-13T13:15:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午一點十五分，Block A 的 Smart 小弟來買一包零食和六包鱈魚香絲，並留下 WhatsApp 詢問另一個產品價格。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

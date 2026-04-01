@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260226_1747_001",
+  "timestamp": "2026-02-26T17:47:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "一位女生帶兩名小朋友進店，小孩先在外看到營業後被吸引進來，購買零食（RM2）。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

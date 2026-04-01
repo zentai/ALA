@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260228_1412_001",
+  "timestamp": "2026-02-28T14:12:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "一位印度妹子進店尋找雞蛋，因缺貨離開未購買。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

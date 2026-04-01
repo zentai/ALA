@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260328_1434_001",
+  "timestamp": "2026-03-28T14:34:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是下午的两点三十四分,刚刚有个斯文小弟回头客,进来买了一个两块九的包装的牛奶。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

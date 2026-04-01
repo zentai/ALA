@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260315_1921_001",
+  "timestamp": "2026-03-15T19:21:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是晚上七點二十一分，其中一位小朋友自己結帳，買了一包一塊錢的零食、一個四塊九的Rebina糖和一包一塊九的Indomie。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

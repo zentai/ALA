@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260209_1920_001",
+  "timestamp": "2026-02-09T19:20:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "印度母女購買洗衣酵素（RM19.9）、軟頭筆（RM15.9）、零食（RM2）、麵包乾（RM4.9）、Ribena 軟糖（RM4.9）。"
+  },
+  "meta": {
+    "amount": 47.6,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

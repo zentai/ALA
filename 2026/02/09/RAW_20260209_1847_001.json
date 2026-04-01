@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260209_1847_001",
+  "timestamp": "2026-02-09T18:47:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "馬來情侶詢問是否販售蔬菜，暫無；未消費。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

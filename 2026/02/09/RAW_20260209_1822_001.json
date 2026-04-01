@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260209_1822_001",
+  "timestamp": "2026-02-09T18:22:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "印度小哥購買辛拉麵（RM6.9）、零食（RM1）與包裝水（RM2.9）。"
+  },
+  "meta": {
+    "amount": 10.8,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

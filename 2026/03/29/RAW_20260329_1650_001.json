@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260329_1650_001",
+  "timestamp": "2026-03-29T16:50:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午的四點五十分,剛剛Steve進來跟我聊天,然後看到那個優衣庫的那個除塵掃帚,可替換的除塵小掃帚,十二塊九,一包然後加一個手柄的啊,他買了一個。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

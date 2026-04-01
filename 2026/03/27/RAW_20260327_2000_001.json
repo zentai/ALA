@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260327_2000_001",
+  "timestamp": "2026-03-27T20:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "OK,現在是晚上八點鐘,收工了。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T07:15:50+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "raw_id": "RAW_20260207_1220_001",
+  "timestamp": "2026-02-07T12:20:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "購買 Ribena 4.9×2、牛肉餅 1（3 pcs）×2、Coke 3.9×1、餅乾 1（3 pcs）。"
+  },
+  "meta": {
+    "amount": 13.7,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "time_missing": true
+  }
+}

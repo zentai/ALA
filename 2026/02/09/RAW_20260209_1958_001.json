@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260209_1958_001",
+  "timestamp": "2026-02-09T19:58:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "兩名印度保安與一位馬來租客購買可樂 2 罐（RM3.9×2）及包裝水 1 包（RM2.9）。"
+  },
+  "meta": {
+    "amount": 10.7,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

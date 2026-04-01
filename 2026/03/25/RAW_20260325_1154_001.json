@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260325_1154_001",
+  "timestamp": "2026-03-25T11:54:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是十一点五十四分，一对老夫妇回头客，洗衣的时候进来，买了三块九的椰子水两罐，两个一块钱的巧克力，然后我们聊了一下天，他说之后如果有卖茶叶的话可以告诉他价格。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

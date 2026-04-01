@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260305_1933_001",
+  "timestamp": "2026-03-05T19:33:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "一對母女進店購買一組 RM15.9 彩色鉛筆。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

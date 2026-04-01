@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260208_1841_001",
+  "timestamp": "2026-02-08T18:41:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "印度小孩帶媽媽回店購買零食（RM4）。"
+  },
+  "meta": {
+    "amount": 4.0,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260208_1155_001",
+  "timestamp": "2026-02-08T11:55:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "完成開店流程：補貨入倉、開鎖、開冷氣/燈、收掛鎖、將招牌轉為 Open，開始打掃。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260226_1156_001",
+  "timestamp": "2026-02-26T11:56:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "店內打掃：清理冰箱前方水漬，紙巾吸水效果不佳，需要吸水力更強的布料。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

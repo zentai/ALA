@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260307_1217_001",
+  "timestamp": "2026-03-07T12:17:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是2026年3月7號禮拜六，下午12點17分開店。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

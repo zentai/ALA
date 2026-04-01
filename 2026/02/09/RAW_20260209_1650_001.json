@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260209_1650_001",
+  "timestamp": "2026-02-09T16:50:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "發現忘記贈送日曆，決定將日曆移至收銀 QR Code 前的顯眼位置。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

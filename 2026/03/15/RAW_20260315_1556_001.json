@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260315_1556_001",
+  "timestamp": "2026-03-15T15:56:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午三點五十六分，外面在下雨，有一個男生在外面洗衣但沒有進來。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

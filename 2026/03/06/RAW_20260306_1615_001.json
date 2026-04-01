@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260306_1615_001",
+  "timestamp": "2026-03-06T16:15:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "在下午四點十五分左右，一位女生進店逛了一下後離開未購買，非洗衣客。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

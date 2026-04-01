@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260329_1500_001",
+  "timestamp": "2026-03-29T15:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "今天是二零二六年三月二十九號,可以幫我做一個每日流水記錄嗎?啊,是下午差不多三點開的店,因為早上要去掃墓。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

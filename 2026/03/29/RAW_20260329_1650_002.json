@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260329_1650_002",
+  "timestamp": "2026-03-29T16:50:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "啊,那同样的时间,Stef也有询问了一个那个Nujay的水罐,他看上了一个灰色的水罐,价格是三十九块九,他说啊,下一次,下一次他来的时候再买,然后他也询问了另外一个就是我的那个啊具有无线充电功能的手机支架,那个是八十九块九,下次我告诉他价格的。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

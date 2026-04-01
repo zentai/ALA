@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260209_1411_001",
+  "timestamp": "2026-02-09T14:11:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "印度小朋友挑選未上架辣味零食 3 樣，特價 RM1 成交。"
+  },
+  "meta": {
+    "amount": 1.0,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

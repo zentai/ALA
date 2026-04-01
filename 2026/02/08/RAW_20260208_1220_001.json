@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260208_1220_001",
+  "timestamp": "2026-02-08T12:20:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "打掃人員購買可樂 1 瓶（RM3.9，現金）。離開時差點碰到島台商品桌。"
+  },
+  "meta": {
+    "amount": 3.9,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

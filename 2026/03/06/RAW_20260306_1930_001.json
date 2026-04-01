@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260306_1930_001",
+  "timestamp": "2026-03-06T19:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是晚上七點三十分，之前來過的中國婦人再次購買兩包豆腐干與一顆咸蛋，並詢問手工豆皮價格。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

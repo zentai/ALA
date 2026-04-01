@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260208_1200_001",
+  "timestamp": "2026-02-08T12:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "華人 uncle（1978 生）來聊天，確認價格與營業時間；協助設定 Touch ‘n Go；未購買離開。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

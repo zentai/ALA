@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260208_1835_001",
+  "timestamp": "2026-02-08T18:35:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "兩位印度小孩進店聊天了解商品，未購買離開。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

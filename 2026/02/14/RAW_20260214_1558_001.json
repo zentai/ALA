@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260214_1558_001",
+  "timestamp": "2026-02-14T15:58:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "因下雨天色變暗，已開啟洗衣店燈；日後將於開關店時同步測試。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

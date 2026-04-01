@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260322_1339_001",
+  "timestamp": "2026-03-22T13:39:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午的一點三十九分，剛剛兩個年輕人進來買了一支兩塊九的大瓶礦泉水。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

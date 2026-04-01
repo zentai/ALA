@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260214_2035_001",
+  "timestamp": "2026-02-14T20:35:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "收店後約 20:35 出現三至四組顧客前來洗烘衣，但因店未開門未成交。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

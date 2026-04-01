@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260320_1710_001",
+  "timestamp": "2026-03-20T17:10:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是五點十分，一個印度小孩進來買了一根一塊錢的冰條。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

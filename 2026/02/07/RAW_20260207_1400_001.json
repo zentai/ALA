@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260207_1400_001",
+  "timestamp": "2026-02-07T14:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "三位 auntie 進店聊天並分享管理層與社群資訊，隨手購物（品項／金額原紀錄未給）。"
+  },
+  "meta": {
+    "amount_missing": true,
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

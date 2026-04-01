@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260325_2135_001",
+  "timestamp": "2026-03-25T21:35:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是晚上的九点三十五分，有一位年轻人看起来是中国人，买了四个两块九的饮料。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

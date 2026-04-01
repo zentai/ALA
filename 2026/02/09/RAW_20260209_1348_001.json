@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260209_1348_001",
+  "timestamp": "2026-02-09T13:48:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "馬來客戶購買罐裝 100 號 2 瓶（RM3.9×2）與包裝水 1 瓶（RM2.9）。"
+  },
+  "meta": {
+    "amount": 10.7,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

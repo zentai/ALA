@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260314_1407_001",
+  "timestamp": "2026-03-14T14:07:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午兩點零七分，中國阿姨和女兒回來購買冰杯2個、情境貼紙3個和RM1零食4個（包含雞爪）。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

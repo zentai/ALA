@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260316_1404_001",
+  "timestamp": "2026-03-16T14:04:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午兩點零四分，一位清潔隊馬來阿姨進來買了兩包兩塊九的包裝水，並詢問USB小恐龍風扇價格，但暫時查不到價格。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

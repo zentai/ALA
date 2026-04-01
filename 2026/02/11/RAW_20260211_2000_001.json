@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260211_2000_001",
+  "timestamp": "2026-02-11T20:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "收工。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "time_missing": true
+  }
+}

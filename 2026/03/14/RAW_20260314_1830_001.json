@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260314_1830_001",
+  "timestamp": "2026-03-14T18:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午六點三十分，Steve進來購買退熱貼和RM1零食，並聊天。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

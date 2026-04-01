@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260328_1340_001",
+  "timestamp": "2026-03-28T13:40:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "刚刚一点四十分的时候,刚开店不久,然后门口的保安就进来买东西了,这保安是前两天才出现买东西的,他买了一个两块九的包装饮料和一个两块九的果冻。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

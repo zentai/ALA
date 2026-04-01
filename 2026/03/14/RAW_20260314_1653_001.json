@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260314_1653_001",
+  "timestamp": "2026-03-14T16:53:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午四點五十三分，清潔隊隊長進來購買飲料5包。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

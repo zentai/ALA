@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260209_1227_001",
+  "timestamp": "2026-02-09T12:27:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "貨架打掃完成，提議將冰箱上方層面納入 SOP 以避免灰塵累積。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

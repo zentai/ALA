@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260327_1542_002",
+  "timestamp": "2026-03-27T15:42:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是下午的三点四十二分,一位小朋友,应该是小学生吧,回头客。本来想要买Rubina软糖,然后因为我们起价了变成五块九,他觉得贵,他没买。后来买了一个三块九的可乐。然后他问我,除了这个Rubina软糖,有没有其他糖果,好像例如说Montos。我说没有,然后他就拿着可乐走了。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T07:15:50+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

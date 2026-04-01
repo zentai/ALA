@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260214_1528_001",
+  "timestamp": "2026-02-14T15:28:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "店內過冷，已關閉所有冷氣；準備安裝新的 Price Tag。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

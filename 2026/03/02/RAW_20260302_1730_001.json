@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260302_1730_001",
+  "timestamp": "2026-03-02T17:30:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是下午五點半，中國籍阿姨與女兒放學後購買兩組冰杯可樂組、RM1零食、RM1鱈魚香絲和一包RM3.9豆乾。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

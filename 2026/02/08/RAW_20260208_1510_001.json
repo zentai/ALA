@@ -1,0 +1,16 @@
+{
+  "raw_id": "RAW_20260208_1510_001",
+  "timestamp": "2026-02-08T15:10:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "同一位打掃人員再次購買大瓶礦泉水 1 支（RM5.9）。"
+  },
+  "meta": {
+    "amount": 5.9,
+    "currency": "RM",
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

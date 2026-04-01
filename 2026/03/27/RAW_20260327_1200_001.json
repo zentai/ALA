@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260327_1200_001",
+  "timestamp": "2026-03-27T12:00:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "這個是二零二六年三月二十七號的每日流水記錄,十二點開店。\n\n現在是十二點零八分,剛才保安進來買了一塊錢的巧克力三條,然後兩塊九一包的果凍一包。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T07:15:50+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

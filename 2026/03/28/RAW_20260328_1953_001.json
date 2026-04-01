@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260328_1953_001",
+  "timestamp": "2026-03-28T19:53:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是晚上的七点五十三分,啊,要收工了。帮我做总结，并以时间：事件简述+金额的形式列出"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01TXX:XX:XX+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

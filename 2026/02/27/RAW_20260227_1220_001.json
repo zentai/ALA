@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260227_1220_001",
+  "timestamp": "2026-02-27T12:20:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "開始記錄 2026-02-27（五）每日流水帳。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "time_missing": true
+  }
+}

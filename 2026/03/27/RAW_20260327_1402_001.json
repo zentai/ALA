@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260327_1402_001",
+  "timestamp": "2026-03-27T14:02:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "现在是下午的两点零二分,刚刚一个清洁队员,也是回头客,进来买了一块钱零食,一个一块钱的Nestle巧克力一个,然后两块九的包装牛奶一个。\n\n现在是下午的两点零七分,啊,早上来过的保安又进来买了两块钱的零食。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T07:15:50+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

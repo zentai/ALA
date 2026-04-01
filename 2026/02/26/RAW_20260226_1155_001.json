@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260226_1155_001",
+  "timestamp": "2026-02-26T11:55:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "馬來朋友購買椰子水（RM3.9），離開前詢問冷氣價格。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}

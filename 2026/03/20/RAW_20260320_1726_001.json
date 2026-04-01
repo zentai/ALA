@@ -1,0 +1,15 @@
+{
+  "raw_id": "RAW_20260320_1726_001",
+  "timestamp": "2026-03-20T17:26:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "現在是五點二十六分，兩位印度女生買了包裝水2包、零食1份、冰條1條，並詢問是否可以幫忙煮泡麵。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh",
+    "input_method": "voice_to_text"
+  }
+}

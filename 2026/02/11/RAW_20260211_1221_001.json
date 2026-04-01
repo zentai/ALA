@@ -1,0 +1,14 @@
+{
+  "raw_id": "RAW_20260211_1221_001",
+  "timestamp": "2026-02-11T12:21:00+08:00",
+  "world": "minimart",
+  "source": "manual",
+  "content": {
+    "type": "text",
+    "text": "吸塵完成；發現地面油漆脫落、牆面洞未補及兩組天花板燈故障，列入修復代辦。"
+  },
+  "meta": {
+    "ingest_time": "2026-04-01T00:00:00+08:00",
+    "language": "zh"
+  }
+}
