@@ -1,0 +1,152 @@
+store:
+  name: MixFinds
+  total_area_m2: 47.21
+  shape_description: "不規則多邊形店面，西側有梁柱內縮，北面為主玻璃門，東側有備用門"
+  ceiling_height_m: null
+  floor_type: null
+  door_width_m: 1.43
+
+grid:
+  origin: "(0, 0) 收銀台後方左下牆角"
+  unit_per_cell: 0.5m
+  axis: "X→東, Y→北門"
+
+walls:
+  - name: 店面輪廓
+    corners:
+      - [0, 0]
+      - [0, 512]
+      - [67, 512]
+      - [67, 553]
+      - [9, 553]
+      - [9, 825]
+      - [254, 825]
+      - [254, 663.5]
+      - [454, 663.5]
+      - [454, 523.5]
+      - [712, 523.5]
+      - [712, 0]
+      - [0, 0]
+    unit: cm
+    description: "依 SVG v2 校正後的閉合店面輪廓"
+
+openings:
+  - name: A1窗
+    type: window
+    wall_id: Wall_A
+    corners: [[0, 0], [0, 242]]
+    transparent: true
+    passable: false
+
+  - name: A2窗
+    type: window
+    wall_id: Wall_A
+    corners: [[0, 274], [0, 516]]
+    transparent: true
+    passable: false
+
+  - name: E牆窗
+    type: window
+    wall_id: Wall_E
+    corners: [[9, 565.5], [9, 812.5]]
+    transparent: true
+    passable: false
+
+  - name: 北門
+    type: double_glass_door
+    wall_id: Wall_F
+    corners: [[75, 825], [218, 825]]
+    width_cm: 143
+    transparent: true
+    passable: true
+
+  - name: 備用門
+    type: door
+    wall_id: Wall_K
+    corners: [[712, 513.5], [712, 363.5]]
+    width_cm: 150
+    status: locked
+    passable: false
+
+obstructions:
+  - name: 梁柱
+    type: pillar
+    corners:
+      - [0, 512]
+      - [67, 512]
+      - [67, 553]
+      - [9, 553]
+    height_m: null
+
+zones:
+  - name: 入口
+    type: entrance
+    corners: [[75, 825], [218, 825]]
+    features: [double_glass_door]
+    adjacent_zones: []
+
+  - name: 冰櫃區
+    type: 直立冷凍櫃
+    corners: null
+    shelf_count: null
+    facing_direction: null
+    adjacent_zones: []
+
+  - name: 冰箱區
+    type: 直立冷藏櫃(玻璃門)
+    corners: null
+    shelf_count: null
+    facing_direction: null
+    adjacent_zones: [梁柱]
+
+  - name: 中島
+    type: 雙面展示架
+    corners: null
+    shelf_count: null
+    adjacent_zones: []
+
+  - name: 收銀台
+    type: 櫃檯
+    corners: null
+    features: []
+    adjacent_zones: []
+
+  - name: 右牆貨架
+    type: 壁掛層架
+    corners: null
+    shelf_count: null
+    adjacent_zones: []
+
+  - name: 倉庫入口
+    type: door/curtain
+    corners: null
+    adjacent_zones: []
+
+utilities:
+  - name: 梁柱插座
+    type: power_socket
+    mounted_on: Wall_C
+    usage: [冰箱, 打掃]
+
+  - name: 冰櫃延伸插座
+    type: power_socket
+    location: null
+    usage: [冰櫃]
+
+  - name: 空調
+    type: air_conditioner
+    location: "北門與梁柱中間上方"
+    coordinates: null
+
+customer_flow:
+  natural_paths:
+    - description: "北門進入後，進入主店面空間"
+      confidence: high
+
+  hotspots:
+    - name: "北門入口"
+      center: [146.5, 825]
+
+photos:
+  - filename: "mixfinds_shell_with_openings_v2.svg"
+    viewpoint: "SVG v2 平面圖"
